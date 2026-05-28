@@ -3,7 +3,7 @@ import axios from "axios";
 const API = axios.create({
 
   baseURL:
-     "https://cms-3tty.onrender.com/api/api",
+     "https://cms-3tty.onrender.com/api",
 
 });
 
